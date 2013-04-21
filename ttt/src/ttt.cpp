@@ -11,5 +11,5 @@ using namespace std;
 
 int main() {
 	cout << "!!!H  ello WohjhjhjhjrldAAAAAAAAA!!!" << endl; // prints !!!Hello World!!!
-	return 0;
+	return 00000;
 }
